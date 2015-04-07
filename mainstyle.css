@@ -13,7 +13,7 @@ body p a {
 }
 body p {
 	font-size: large;
-	color: #C32325;
+	color: #EB0C0E;
 }
 body h3 {
 	font-size: xx-large;
@@ -21,4 +21,7 @@ body h3 {
 body h2 {
 	font-size: x-large;
 	color: #BC3C3E;
+}
+body p a {
+	color: #F10A0E;
 }
