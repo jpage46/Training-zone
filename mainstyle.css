@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body p em {
+	font-size: x-small;
+}
+body h2 {
+	font-size: x-small;
+}
+body p {
+	font-size: x-small;
+}
+body p a {
+	font-size: x-large;
+}
+body p {
+	font-size: large;
+	color: #C32325;
+}
+body h3 {
+	font-size: xx-large;
+}
+body h2 {
+	font-size: x-large;
+	color: #BC3C3E;
+}
